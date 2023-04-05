@@ -1,7 +1,7 @@
 # Oliver Sigwarth
 # Exercise 4: Hexadecimal Output
 # Exercise from "Python Workout: 50 ten-minute exercises" by Reuven M. Lerner
-# Created: 3/19/2023
+# Created: 3/25/2023
 # Modified: 3/26/2023
 # ------------------------------------------------------------------------------
 #                                   Objective
